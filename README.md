@@ -7,4 +7,4 @@
 3) диск
 4) сеть
 
-![zabbix](screenshots/zabbix.png)
+![zabbix](screenshots/zabbix.jpg)
